@@ -11,4 +11,5 @@ fn main() {
         .expect("Failed to read user's guess");
 
     println!("User guessed: {guess}");
+    // add a comment
 }
