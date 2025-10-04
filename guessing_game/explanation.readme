@@ -1,0 +1,6 @@
+To set up a new project:
+
+```
+$ cargo new guessing_game
+$ cd guessing_game
+```
