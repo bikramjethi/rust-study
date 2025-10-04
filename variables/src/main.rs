@@ -1,3 +1,4 @@
+const x: i32 = 5;
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world! {}", x);
 }
