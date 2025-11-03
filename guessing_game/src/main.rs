@@ -22,6 +22,7 @@ fn main() {
         };
 
         println!("You guessed: {guess}");
+        // adding a sample comment for testing
 
         match guess.cmp(&secret_number) {
             Ordering::Less => println!("Too small!!"),
